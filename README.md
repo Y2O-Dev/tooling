@@ -12,7 +12,7 @@ This is a Dockerfile to build a debian based container image running nginx and p
 
 ## How to use this repository
 The build is automatically triggered by a git push to your feature/[branch]
-
+# This juast to twst for Jenkins fxn. Thanks
 ## First clone the repository to your workstation
 ```
 $ git clone https://gitlab.com/propitix/microservices/php-frontend.git
